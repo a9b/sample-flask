@@ -8,6 +8,8 @@ authors = ["a9b <a9b.word@gmail.com>"]
 python = "^3.8"
 Flask = "^2.0.1"
 uWSGI = "^2.0.19"
+celery = "^5.1.1"
+redis = "^3.5.3"
 
 [tool.poetry.dev-dependencies]
 
